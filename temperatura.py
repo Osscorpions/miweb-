@@ -8,4 +8,4 @@ print(f'{fahrenheit} °F a °C: {resultado: .2F}')
 
 celsius = float(input("Inserte un valor en grados Fahrenheit: "))
 resultado = celsius_fahrenheit(celsius)
-print(f'{celsius} °C a °F: {resultado: .2F}' )
+print(f'{celsius} °C a °F: {resultado: .2F}')
